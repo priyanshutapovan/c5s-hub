@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.6",
+  "versionCode": 17,
+  "versionName": "1.7",
   "apkUrl": "https://github.com/priyanshutapovan/c5s-hub/releases/latest/download/C5SHub.apk",
-  "notes": "Reel: minus = screen off, centre = pause/play (swapped)."
+  "notes": "New app icon + removed the media-player card from the notification shade."
 }
