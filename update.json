@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4",
+  "versionCode": 15,
+  "versionName": "1.5",
   "apkUrl": "https://github.com/priyanshutapovan/c5s-hub/releases/latest/download/C5SHub.apk",
-  "notes": "Security hardening: removed the in-app installer; the Download button opens the APK link, you install it yourself."
+  "notes": "Reel mode responds instantly now - no more button delay."
 }
