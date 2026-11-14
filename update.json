@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.5",
+  "versionCode": 16,
+  "versionName": "1.6",
   "apkUrl": "https://github.com/priyanshutapovan/c5s-hub/releases/latest/download/C5SHub.apk",
-  "notes": "Reel mode responds instantly now - no more button delay."
+  "notes": "Reel: minus = screen off, centre = pause/play (swapped)."
 }
